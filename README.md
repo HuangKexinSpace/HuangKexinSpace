@@ -1,5 +1,5 @@
 ## Hi there 👋
--🏃‍♀️ I am Kexin, an entry-level developer from Shenzhen, China.
+- 🏃‍♀️ I am Kexin, an entry-level developer from Shenzhen, China.
 <!--
 **HuangKexinSpace/HuangKexinSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
